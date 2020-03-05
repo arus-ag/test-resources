@@ -41,6 +41,14 @@
             "divisibility": "6"
         },
         {
+            "id": "usdlevy",
+            "namespace": "arus",
+            "name": "Test USD d6",
+            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
+            "rate": "0",
+            "divisibility": "6"
+        },
+        {
             "id": "prosportcoin",
             "namespace": "prosport",
             "name": "ProSportCoin",
