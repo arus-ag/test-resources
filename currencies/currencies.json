@@ -42,11 +42,19 @@
         },
         {
             "id": "usdlevy",
-            "namespace": "USD Levy 1",
+            "namespace": "arus",
             "name": "Test USD d6",
             "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
             "rate": "0",
             "divisibility": "0"
+        },
+        {
+            "id": "eurlevy",
+            "namespace": "arus",
+            "name": "EURO Levy",
+            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
+            "rate": "1",
+            "divisibility": "6"
         },
         {
             "id": "prosportcoin",
