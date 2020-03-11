@@ -3,26 +3,10 @@
         {
             "id": "xem",
             "namespace": "arus",
-            "name": "Xem",
+            "name": "XEM",
             "img": "https://arus-ag.github.io/test-resources/currencies/xem.png",
             "rate": "1.966",
             "divisibility": "6"
-        },
-		{
-			"id": "etest",
-            "namespace": "arus",
-			"name": "Etest",
-            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
-            "rate": "0.678",
-            "divisibility": "0"
-		},
-        {
-            "id": "aeurtest",
-            "namespace": "arus",
-            "name": "Euro",
-            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
-            "rate": "1.016",
-            "divisibility": "0"
         },
         {
             "id": "arsup",
@@ -33,25 +17,9 @@
             "divisibility": "0"
         },
         {
-            "id": "etestusd",
-            "namespace": "arus",
-            "name": "Test USD d6",
-            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
-            "rate": "0",
-            "divisibility": "6"
-        },
-        {
-            "id": "usdlevy",
-            "namespace": "arus",
-            "name": "USD Levy",
-            "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
-            "rate": "0",
-            "divisibility": "0"
-        },
-        {
             "id": "eurlevy",
             "namespace": "arus",
-            "name": "EURO Levy",
+            "name": "EURO",
             "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
             "rate": "1",
             "divisibility": "6"
