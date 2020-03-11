@@ -43,7 +43,7 @@
         {
             "id": "usdlevy",
             "namespace": "arus",
-            "name": "Test USD d6",
+            "name": "USD Levy",
             "img": "https://arus-ag.github.io/test-resources/currencies/etest.png",
             "rate": "0",
             "divisibility": "0"
