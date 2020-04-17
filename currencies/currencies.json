@@ -31,6 +31,14 @@
             "img": "https://arus-ag.github.io/test-resources/currencies/prosport.png",
             "rate": "2",
             "divisibility": "6"
-        }
+        },
+        {
+			"id": "litherium-1",
+			"namespace": "capital-one",
+			"name": "Litherium",
+            "img": "https://arus-ag.github.io/litherium-resources/currencies/litherium.png",
+			"rate": "1",
+			"divisibility": "2"
+		}
 	]
 }
